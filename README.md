@@ -1,6 +1,4 @@
-update:
 
-PowerShell is replaced for .bat file<br>
 
 # IT-Service-Desk-PHP-mysql
 IT-Service-Desk-PHP-mysql
